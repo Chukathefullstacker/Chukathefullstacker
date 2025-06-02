@@ -10,7 +10,7 @@
 
 <h2 align="center">Full Stack Data Analyst, Statistician and Life-Long Learner</h2>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Chu
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Chuka
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukathefullstacker&label=Profile%20views&color=0e75b6&style=flat" alt="chukathefullstacker" /> </p>
 <table align="center">
 <tr border="none">
@@ -183,7 +183,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for viewing my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Chukathefullstacker
+  &copy; 2025 Chukathefullstacker
 </div>
 
 
