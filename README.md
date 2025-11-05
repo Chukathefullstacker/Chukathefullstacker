@@ -51,7 +51,7 @@
     </a>
    <a href="https://www.office.com/" target="_blank" rel="noreferrer">
         <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1085px-Microsoft_Excel_2013-2019_logo.svg.png"
                 alt="excel"
                 width="40"
                 height="40"
@@ -102,10 +102,10 @@
         />
     </a>
     <a href="https://workspace.google.com/products/sheets/" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/apps-google-sheets-icon-2048x2044-j8oe3a79.png" 
-          alt="google sheets" 
-          width="40" 
-          height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Office_13-16_Logo.png" 
+          alt="Microsoft Office" 
+          width="100" 
+          height="120" />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
